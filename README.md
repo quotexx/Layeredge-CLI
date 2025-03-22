@@ -19,7 +19,7 @@ You can install the LayerEdge Light Node using either curl or wget:
 ### Using curl
 
 ```bash
-curl -L https://raw.githubusercontent.com/WINGFO-HQ/LayerEdgeCLI/refs/heads/main/layeredge.sh -o layeredge.sh && chmod +x layeredge.sh && ./layeredge.sh
+curl -L https://raw.githubusercontent.com/quotexx/Layeredge-CLI/refs/heads/main/cli.sh -o cli.sh && chmod +x cli.sh && ./cli.sh
 ```
 
 ### Using wget
